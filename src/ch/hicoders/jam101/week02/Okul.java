@@ -14,6 +14,7 @@ public class Okul {
         //ögrenci sayisini belirleme
         int k = (int)(Math.random() * 50);
         System.out.println("----------------------------------------");
+
         System.out.println("Toplam ögrenci sayisi: " + k);
 
         //Almance ve Matematik not ortalamalari icin degiskenlerin olusturulmasi
